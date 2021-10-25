@@ -48,3 +48,6 @@ You can view more of my work at [my github](https://github.com/D-Whipp)
 ## Badges
 
 ![JavaScript-Badge](https://img.shields.io/badge/Language-JavaScript-blue)
+![MongoDB-Badge](https://img.shields.io/badge/Database-MongoDB-green)
+![IndexedDB-Badge](https://img.shields.io/badge/NoSQL-IndexedDB-critical)
+![Manifest-Badge](https://img.shields.io/badge/Manifest-JSON-blueviolet)
