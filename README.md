@@ -1,4 +1,5 @@
 # Progressive Web Application | Budget Tracker
+### Full Stack App
 
 ## Introduction
 
